@@ -1,6 +1,8 @@
 /*
  gcc hello.c -o hello
  ./hello
+ chmod +x hello
+ hello
 */
 
 #include<stdio.h>
