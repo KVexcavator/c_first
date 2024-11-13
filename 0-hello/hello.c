@@ -1,6 +1,6 @@
 /*
  gcc hello.c -o hello
- ./hello
+ ./hello && ./hello
  chmod +x hello
  hello
 */
